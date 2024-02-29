@@ -1,0 +1,59 @@
+.accoridian{
+    margin-top:20px;
+    margin-left: auto;
+    padding:10px; }
+
+    .items{
+
+        padding:5px;
+        box-sizing: border-box;
+        border: 10px solid black;
+        border-radius: 5px;
+        margin:10px;
+        padding:5px;
+    }
+.btn-selected{
+
+    margin:10px;
+    padding:10px;
+    
+
+
+}
+
+.btn1 , .btn2 {
+
+    background-color: aqua;
+    padding: 10px;
+    margin:5px;
+    font-size:20px;
+    color:black;
+    border-radius: 10px;
+}
+
+.btn3{
+
+    background-color: rgb(255, 0, 183);
+    padding: 10px;
+    margin:5px;
+    font-size:20px;
+    color:#000000;
+    border-radius: 10px;
+
+}
+
+.btn4{
+
+    background-color: rgb(111, 255, 0);
+    padding: 10px;
+    margin:5px;
+    font-size:20px;
+    color:black;
+    border-radius: 10px;
+
+}
+
+.active {
+
+    color: yellow;
+}

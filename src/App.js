@@ -1,23 +1,28 @@
-import logo from './logo.svg';
+
 import './App.css';
+// import Accoridian from './components/Accoridian';
+// import RandomColor from './components/RandomColor';
+// import Star from './components/Star';
+// import Photo from './components/Photo';
+// import MapFilter from './components/MapFilter';
+import RandomColor from './components/RandomColor';
+import RandomQuotes from './components/RandomQuotes';
+import ImageSlider from './components/imageSlider/ImageSlider';
+import ToolTip from './components/ToolTip';
+import NewComp from './components/NewComp';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Accoridian/>
+      <RandomColor/>
+      <Star/>
+      <Photo/>
+      <MapFilter/> */}
+      {/* <RandomQuotes/> */}
+      {/* <ToolTip content={"iam tool tip"}  children={" I am child"}/> */}
+      <NewComp/>
+      
     </div>
   );
 }

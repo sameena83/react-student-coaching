@@ -1,4 +1,4 @@
-This project i created while coaching the students on how to create certain concepts in React.
+This project i created while coaching the students on how to BECOME Excellent in certain concepts in React.
 This is only for those who knows Javascript and ES6 concepts
 
 
